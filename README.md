@@ -1,6 +1,6 @@
 ### Hi everyone, This is Mark4z.
 
-- Apache dubbogo member
+- Apache dubbogo commiter
 
 - 🌱 I’m currently learning java & go.
 - 📫 Reach me: anymre@outlook.com
