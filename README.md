@@ -2,8 +2,7 @@
 
 - Apache dubbogo commiter
 
-- 🌱 I’m currently learning java & go.
-- 📫 Reach me: anymre@outlook.com
+- 📫 Reach me: mark4z@apache.org
 
 ---
 
