@@ -1,7 +1,5 @@
 ### Hi everyone, This is Mark4z.
 
-- Apache dubbogo commiter
-
 - 📫 Reach me: mark4z@apache.org
 
 ---
