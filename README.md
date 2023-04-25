@@ -4,6 +4,6 @@
 - 🧙‍♂️blog: https://mark4z.github.io/
 ---
 
-![Mark4z's GitHub stats](github-readme-stats-two-alpha-28.vercel.app/api?username=mark4z&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)
+![Mark4z's GitHub stats](https://github-readme-stats-two-alpha-28.vercel.app/api?username=mark4z&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats-two-alpha-28.vercel.app/api/top-langs/?username=mark4z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
